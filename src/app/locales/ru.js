@@ -11,7 +11,7 @@ export default {
       unknown: 'Неизвестная ошибка. Что-то пошло не так.',
     },
     results: {
-      completed: 'RSS успешно загружен!',
+      completed: 'RSS успешно загружен',
     },
     elements: {
       feedsTitle: 'Фиды',
